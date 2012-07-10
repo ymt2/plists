@@ -30,6 +30,16 @@
 		<key>name</key>
 		<string>Safari iOS</string>
 		<key>version</key>
+		<string>5.0.0</string>
+		<key>platform</key>
+		<string>iPhone</string>
+		<key>user-agent</key>
+		<string>Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3NEW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Safari iOS</string>
+		<key>version</key>
 		<string>4.3.3</string>
 		<key>platform</key>
 		<string>iPhone</string>
@@ -55,6 +65,20 @@
 		<string>iPad</string>
 		<key>user-agent</key>
 		<string>Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5</string>
+	</dict>
+	<dict>
+		<key>separator</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Googlebot</string>
+		<key>version</key>
+		<string>-</string>
+		<key>platform</key>
+		<string>Googlebot</string>
+		<key>user-agent</key>
+		<string>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</string>
 	</dict>
 	<dict>
 		<key>separator</key>
